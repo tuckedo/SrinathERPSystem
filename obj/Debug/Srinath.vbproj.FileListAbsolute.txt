@@ -1,0 +1,115 @@
+D:\Docs Dump\Work\Srinath\bin\Debug\Srinath.exe.config
+D:\Docs Dump\Work\Srinath\bin\Debug\Srinath.exe
+D:\Docs Dump\Work\Srinath\bin\Debug\Srinath.pdb
+D:\Docs Dump\Work\Srinath\bin\Debug\Srinath.xml
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.vbprojAssemblyReference.cache
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.loginForm.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.Resources.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.vbproj.GenerateResource.cache
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.exe
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.xml
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.pdb
+D:\Docs Dump\Work\Srinath\bin\Debug\Guna.UI.dll
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.vbproj.CopyComplete
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.forgotpassword.resources
+D:\Docs Dump\Work\Srinath\bin\Debug\Srinath.exe.manifest
+D:\Docs Dump\Work\Srinath\bin\Debug\Srinath.application
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.exe.manifest
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.application
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.ProductsForm.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.subFormProducts.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.menuDesigner.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.subFormCustomers.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.subFormSuppliers.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.subFormPurchases.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.subFormSales.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.subFormInventory.resources
+D:\Docs Dump\Work\Srinath\obj\Debug\Srinath.subFormSettings.resources
+D:\Docs Dump\Work\Srinath\bin\Debug\SrinathDB.mdf
+D:\Docs Dump\Work\Srinath\bin\Debug\SrinathDB_log.ldf
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\SrinathDB.mdf
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\SrinathDB_log.ldf
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Srinath.exe.config
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Srinath.exe.manifest
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Srinath.application
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Srinath.exe
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Srinath.pdb
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Srinath.xml
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.vbprojAssemblyReference.cache
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.subFormInventory.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.subFormSales.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.subFormPurchases.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.subFormCustomers.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.ProductsForm.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.forgotpassword.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.loginForm.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.menuDesigner.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.Resources.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.subFormProducts.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.subFormSuppliers.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.vbproj.GenerateResource.cache
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.exe.manifest
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.application
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.vbproj.CopyComplete
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.exe
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.xml
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.pdb
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\stdole.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.Invoice.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.ReportViewerPurchases.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.ReportViewerInventory.resources
+C:\Users\MAYUR\Desktop\TechUp\Srinath\obj\Debug\Srinath.MailInvoice.resources
+D:\TechUp\Srinath\bin\Debug\SrinathDB.mdf
+D:\TechUp\Srinath\bin\Debug\SrinathDB_log.ldf
+D:\TechUp\Srinath\bin\Debug\Srinath.exe.config
+D:\TechUp\Srinath\bin\Debug\Srinath.exe.manifest
+D:\TechUp\Srinath\bin\Debug\Srinath.application
+D:\TechUp\Srinath\bin\Debug\Srinath.exe
+D:\TechUp\Srinath\bin\Debug\Srinath.pdb
+D:\TechUp\Srinath\bin\Debug\Srinath.xml
+D:\TechUp\Srinath\bin\Debug\stdole.dll
+D:\TechUp\Srinath\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\TechUp\Srinath\obj\Debug\Srinath.vbprojAssemblyReference.cache
+D:\TechUp\Srinath\obj\Debug\Srinath.Invoice.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.MailInvoice.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.ReportViewerInventory.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.ReportViewerPurchases.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.subFormInventory.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.subFormSales.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.subFormPurchases.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.subFormCustomers.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.ProductsForm.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.forgotpassword.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.loginForm.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.menuDesigner.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.Resources.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.subFormProducts.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.subFormSuppliers.resources
+D:\TechUp\Srinath\obj\Debug\Srinath.vbproj.GenerateResource.cache
+D:\TechUp\Srinath\obj\Debug\Srinath.exe.manifest
+D:\TechUp\Srinath\obj\Debug\Srinath.application
+D:\TechUp\Srinath\obj\Debug\Srinath.vbproj.CopyComplete
+D:\TechUp\Srinath\obj\Debug\Srinath.exe
+D:\TechUp\Srinath\obj\Debug\Srinath.xml
+D:\TechUp\Srinath\obj\Debug\Srinath.pdb
+D:\TechUp\Srinath\obj\Debug\Srinath.subFormDefault.resources

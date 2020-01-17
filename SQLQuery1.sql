@@ -1,0 +1,1 @@
+﻿Select I.Inventory_Date, P.Product_Name, P.Product_ID, P.Product_Unit, I.Available_Stock From Products P, Inventory I where I.Product_ID = P.Product_ID
