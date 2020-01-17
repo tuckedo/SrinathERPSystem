@@ -52,9 +52,9 @@ Partial Class loginForm
         Me.Label1.Location = New System.Drawing.Point(594, 221)
         Me.Label1.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(723, 46)
+        Me.Label1.Size = New System.Drawing.Size(694, 46)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Shreenath Building Materials and Suppliers"
+        Me.Label1.Text = "Shrinath Building Materials and Suppliers"
         '
         'Panel1
         '

@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Srinath.exe.manifest" size="7291">
+    <dependentAssembly dependencyType="install" codebase="Srinath.exe.manifest" size="10218">
       <assemblyIdentity name="Srinath.exe" version="1.0.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DuFwLJhXR/G3ueCQvtrSGoNxxvQ6sW3oWCxOKUABSs4=</dsig:DigestValue>
+        <dsig:DigestValue>RGHVEq7ZxOqoOzlpbXXnQru8t2wqXUIebuXR+PjF8/g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
